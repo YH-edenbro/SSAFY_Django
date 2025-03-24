@@ -487,4 +487,4 @@ render(request, template_name, context)
 
 ### Django의 설계 철학
 
-- https://docs.djangoproject.com/kr/4.2/misc/design-philosophies
+- https://docs.djangoproject.com/ko/4.2/misc/design-philosophies/
