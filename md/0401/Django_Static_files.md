@@ -187,7 +187,7 @@
 
 ## 미디어 파일 추가 경로
 
-### 'upload_to' argument
+### 'upload_to' argument - MEDIA_ROOT 이후 경로
 
 = ImageField()의 upload_to 속성을 사용해 다양한 추가 경로 설정
 
